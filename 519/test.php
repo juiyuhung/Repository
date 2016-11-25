@@ -47,9 +47,18 @@
 							-->
 							<ul>
 								<li><a href="#top" id="top-link" class="skel-layers-ignoreHref">Intro<span></span></a></li>
-								<li><a href="#portfolio" id="portfolio-link" class="skel-layers-ignoreHref"><span >08:00</span></a></li>
-								<li><a href="#about" id="about-link" class="skel-layers-ignoreHref"><span >09:00 </span></a></li>
-								<li><a href="#contact" id="contact-link" class="skel-layers-ignoreHref"><span>10:00 </span></a></li>
+								<li><a href="#eight" id="eight-link" class="skel-layers-ignoreHref"><span >08:00</span></a></li>
+								<li><a href="#nine" id="nine-link" class="skel-layers-ignoreHref"><span >09:00 </span></a></li>
+								<li><a href="#ten" id="ten-link" class="skel-layers-ignoreHref"><span>10:00 </span></a></li>
+								<li><a href="#eleven" id="eleven-link" class="skel-layers-ignoreHref"><span>11:00 </span></a></li>
+								<li><a href="#twelve" id="twelve-link" class="skel-layers-ignoreHref"><span>12:00 </span></a></li>
+								<li><a href="#thirteen" id="thirteen-link" class="skel-layers-ignoreHref"><span>13:00 </span></a></li>
+								<li><a href="#fourteen" id="fourteen-link" class="skel-layers-ignoreHref"><span>14:00 </span></a></li>
+								<li><a href="#fifteen" id="fifteen-link" class="skel-layers-ignoreHref"><span>15:00 </span></a></li>
+								<li><a href="#sixteen" id="sixteen-link" class="skel-layers-ignoreHref"><span>16:00 </span></a></li>
+								<li><a href="#seventeen" id="seventeen-link" class="skel-layers-ignoreHref"><span>17:00 </span></a></li>
+								<li><a href="#eighteen" id="eighteen-link" class="skel-layers-ignoreHref"><span>18:00 </span></a></li>
+								<li><a href="#about" id="about-link" class="skel-layers-ignoreHref"><span>問題紀錄</span></a></li>
 							</ul>
 						</nav>
 
@@ -76,30 +85,21 @@
 				<!-- Intro -->
 					<section id="top" class="one dark cover">
 						<div class="container">
-
-							<header>
-								<h2 class="alt">Hi! I'm <strong>Prologue</strong>, a <a href="http://html5up.net/license">free</a> responsive<br />
-								site template designed by <a href="http://html5up.net">HTML5 UP</a>.</h2>
-								<p>Ligula scelerisque justo sem accumsan diam quis<br />
-								vitae natoque dictum sollicitudin elementum.</p>
-							</header>
-
-							<footer>
-								<a href="#portfolio" class="button scrolly">Magna Aliquam</a>
-							</footer>
+						<header>計中工作日誌</header>
+							
 
 						</div>
 					</section>
 
-				<!-- Portfolio -->
-					<section id="portfolio" class="two">
+				<!-- eight -->
+					<section id="eight" class="two">
 						<div class="container">
 
 							<!--header>
 								<h2>工作內容</h2>
 							</header>
 							<p></p-->
-							
+							<p align="left">7:50-8:10</p>
 							<table style="border:3px #cccccc solid;" border="1" cellpadding="10">
 								<thead>
 									<tr>
@@ -139,12 +139,50 @@
                                     </tr>
 								</tbody>
 							</table>
+							<p align="left">8:20-8:40</p>
+							<table style="border:3px #cccccc solid;" border="1" cellpadding="10">
+								<thead>
+										<tr>
+											<th>工作內容</th>
+											<th colspan="2"> 處理狀況說明</th>
+											<th>負責人</th>
+										</tr>
+								</thead>
+								<tbody>
+								<tr >
+										<td rowspan = "3">
+											<div>
+												檢查318印表機紙張、碳粉匣正常與否
+											</div>
+											<div>
+													檢查印表機紙張、碳粉匣
+											</div>
+											<div>
+													分別在置放耗材處的登記本上確實記錄
+											</div>
+											<div>
+												檢查過後，右邊勾選確認
+											</div>
+										</td>
+										<td colspan="2" >黑白 No.1(紙張：　碳粉： )</td>
+										<td ></td>
+									</tr>
+									<tr >
+										<td colspan = "2">A4 務必在置放耗材處的登記本上確實記錄</td>
+										<td></td>
+									</tr>
+									<tr >
+										<td colspan = "2">Lexmark 務必在置放耗材處的登記本上確實記錄</td>
+										<td></td>
+									</tr>
+								</tbody>
+							</table>
 							
 						</div>
 					</section>
 
-				<!-- About Me -->
-					<section id="about" class="three">
+				<!-- nine Me -->
+					<section id="nine" class="three">
 						<div class="container">
 							<table style="border:3px #cccccc solid;" border="1" cellpadding="10">
 								<thead>
@@ -186,8 +224,8 @@
 						</div>
 					</section>
 
-				<!-- Contact -->
-					<section id="contact" class="four">
+				<!-- ten -->
+					<section id="ten" class="four">
 						<div class="container">
 
 							<header>
